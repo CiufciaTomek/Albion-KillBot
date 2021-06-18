@@ -1,7 +1,7 @@
 # Albion-KillBot
 ## Installation
 * Run `npm install`
-* Set .env file
+* Create `.env` file
   * `BOT_TOKEN`
   >  This is your discord bot token, you can find it on `https://discord.com/developers/applications`
   *  `GUILD_ID`
