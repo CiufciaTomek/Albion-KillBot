@@ -1,0 +1,19 @@
+{
+  "name": "KillBOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "CiufciaTomek",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.1.1",
+    "discord.js-canvas": "0.0.1",
+    "dotenv": "^8.2.0",
+    "opusscript": "0.0.7"
+  }
+}
